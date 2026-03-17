@@ -18,7 +18,7 @@ When creating a new issue, please include:
 - **Crash log / screenshots:** If applicable
 
 ## 🎮 Mod Links
-- will be added soon!
+- https://www.curseforge.com/minecraft/mc-mods/drenoughs-forging
 
 ## 🙏 Special Thanks
 

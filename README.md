@@ -23,7 +23,7 @@ When creating a new issue, please include:
 ## 🙏 Special Thanks
 
 - **SaltyWater** - For granting permission to use textures from his "Salty's Realistic Forging" mod. This mod wouldn't be possible without your work!
-- **Slepykat** - For creating custom textures for the Smithing Anvil, Wooden Cauldron, Wooden Barrel, and the diamond overlays for the wooden barrel. Your artistry brought these blocks to life!
+- **Slepykat** - For creating custom textures for the Primitive Anvil, Smithing Anvil, Wooden Cauldron, Wooden Barrel, and the diamond overlays for the wooden barrel. Your artistry brought these blocks to life!
 
 ## 📋 Feature Requests
 Have an idea for a new feature? Feel free to open a feature request issue!

@@ -1,6 +1,6 @@
 # 🔨 DrEnough's Forging - Issue Tracker
 
-[![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1%20%7C%2026.1.2-blue)](https://neoforged.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-26.1.2+-blue)](https://neoforged.net/)
 
 **This repository is for tracking issues and bug reports only.** The mod source code is private.
 
@@ -12,8 +12,8 @@ When creating a new issue, please include:
 
 | Field | Description |
 |-------|-------------|
-| **Minecraft version** | e.g., 1.21.1, 26.1.2 |
-| **Mod version** | e.g., 2.5.0 |
+| **Minecraft version** | 26.1.2+ |
+| **Mod version** | e.g., 4.0.0 |
 | **What happened** | Describe the issue clearly |
 | **What you expected** | Describe what should happen |
 | **Steps to reproduce** | How to make it happen again |
@@ -25,10 +25,21 @@ When creating a new issue, please include:
 
 ## ✨ Mod Features (Quick Reference)
 
-- 🪙 **Copper → Netherite progression**
-- ⚒️ **Immersive right-click crafting**
-- 🔥 **Heat mechanics** (burn without tongs!)
-- 📖 **Patchouli guide book** (1.21.1) / **JEI integration** (26.1.2)
+- ⚔️ **Iron Forging** – Heat, hammer, quench, assemble
+- 🏺 **Bronze Age** – Alloy copper + tin, forge bronze equipment
+- 🔥 **Tongs Durability** – Tools wear down with use
+- 💧 **Natural Water Quenching** – Quench in rivers, oceans, any water
+- 🔨 **Smithing Stone (Early)** – First iron ingots with sticks
+- ⚒️ **Smithing Anvil (Advanced)** – Full tool/armor forging
+
+---
+
+## ❌ What This Mod Does NOT Do
+
+- No diamond/emerald carving
+- No copper/tin/gold tool forging (vanilla only)
+- No custom wood handles (vanilla sticks)
+- No wooden cauldron (natural water works)
 
 ---
 
@@ -40,15 +51,19 @@ When creating a new issue, please include:
 
 ## 💡 Feature Requests
 
-Have an idea for a new feature? Open a **Feature Request** issue! I'd love to hear your ideas.
+Have an idea for a new feature? Open a **Feature Request** issue!
+
+**Planned features (in order):**
+1. Casting Table – Simple ingot casting for copper/tin/gold
+2. Paxels – Multi-tools (pickaxe + axe + shovel)
+3. Steel Age – Advanced metal progression
 
 ---
 
 ## 🙏 Special Thanks
 
-- **SaltyWater** - For granting permission to use textures from his "Salty's Realistic Forging" mod. This mod wouldn't be possible without your work!
-
-- **Slepykat** - For creating custom textures for the Primitive Anvil, Smithing Anvil, Wooden Cauldron, Wooden Barrel, and the diamond overlays. Your artistry brought these blocks to life!
+- **Slepykat** – All custom textures (complete texture overhaul!)
+- **SaltyWater** – For inspiration and permission to use original textures as placeholders during development
 
 ---
 
@@ -61,10 +76,23 @@ A: Yes! Feel free.
 A: Absolutely. All systems are fully synced.
 
 **Q: Do I need JEI?**  
-A: JEI is recommended for both versions (adds custom recipe categories).
+A: JEI is optional but recommended for recipe viewing.
 
-**Q: Do I need Patchouli?**  
-A: No. Patchouli is optional and only available for 1.21.1.
+**Q: What happened to copper/gold/diamond tools?**  
+A: They now use vanilla crafting. This mod focuses on iron and bronze.
+
+**Q: Why are old versions archived?**  
+A: Old versions (1.20.1, 1.21.1) used placeholder textures and bloated systems. The current version has 100% custom textures and a streamlined focus on iron/bronze blacksmithing.
+
+---
+
+## 📋 Supported Versions
+
+| Version | Status |
+|---------|--------|
+| 1.20.1 (Forge) | ❌ Archived |
+| 1.21.1 (NeoForge) | ❌ Archived |
+| **26.1.2+ (NeoForge)** | ✅ **Active** |
 
 ---
 

@@ -31,6 +31,8 @@ When creating a new issue, please include:
 - 💧 **Natural Water Quenching** – Quench in rivers, oceans, any water
 - 🔨 **Smithing Stone (Early)** – First iron ingots with sticks
 - ⚒️ **Smithing Anvil (Advanced)** – Full tool/armor forging
+- **Casting Table** – Simple ingot casting for copper/tin/gold
+- **Paxels – Multi-tools** (pickaxe + axe + shovel)
 
 ---
 
@@ -54,9 +56,7 @@ When creating a new issue, please include:
 Have an idea for a new feature? Open a **Feature Request** issue!
 
 **Planned features (in order):**
-1. Casting Table – Simple ingot casting for copper/tin/gold
-2. Paxels – Multi-tools (pickaxe + axe + shovel)
-3. Steel Age – Advanced metal progression
+1. Steel Age – Advanced metal progression
 
 ---
 

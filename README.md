@@ -62,7 +62,8 @@ Have an idea for a new feature? Open a **Feature Request** issue!
 
 ## 🙏 Special Thanks
 
-- **Slepykat** – All custom textures (complete texture overhaul!)
+- **Slepykat** –  All custom textures (except bronze tools/armor, some hot metal variants and tin block ore variants)
+- **DrEnough** - Custom textures for bronze items, some hot metals variants, and tin block ore variants
 - **SaltyWater** – For inspiration and permission to use original textures as placeholders during development
 
 ---

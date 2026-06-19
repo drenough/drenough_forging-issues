@@ -1,6 +1,6 @@
 # 🔨 DrEnough's Forging - Issue Tracker
 
-[![NeoForge](https://img.shields.io/badge/NeoForge-26.1.2+-blue)](https://neoforged.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-26.1.2-blue)](https://neoforged.net/)[![NeoForge](https://img.shields.io/badge/NeoForge-26.2-green)](https://neoforged.net/)
 
 **This repository is for tracking issues and bug reports only.** The mod source code is private.
 

@@ -111,7 +111,8 @@ A: Old versions (1.20.1, 1.21.1) used placeholder textures and bloated systems. 
 |---------|--------|
 | 1.20.1 (Forge) | ❌ Archived |
 | 1.21.1 (NeoForge) | ❌ Archived |
-| **26.1.2+ (NeoForge)** | ✅ **Active** |
+| **26.1.2 (NeoForge)** | ✅ **Active** |
+| **26.2 (NeoForge)** | ✅ **Active** |
 
 ---
 
